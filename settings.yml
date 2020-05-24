@@ -1,8 +1,9 @@
 ---
 
-structure: "The ?{adjective} {noun} {verb} ?{adjective} {noun}"
+structure: "The ?{adjective} {noun} ?{adverb} {verb} the ?{adjective} {noun}"
 words:
   verb: words/verbs.txt 
   noun: words/nouns.txt 
   adjective: words/adjectives.txt
+  adverb: words/adverbs.txt
 
