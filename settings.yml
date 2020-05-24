@@ -1,0 +1,8 @@
+---
+
+structure: "The ?{adjective} {noun} {verb} ?{adjective} {noun}"
+words:
+  verb: words/verbs.txt 
+  noun: words/nouns.txt 
+  adjective: words/adjectives.txt
+
